@@ -1,0 +1,231 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.main-area {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.fix {
+    overflow: hidden;
+}
+
+.full-area {
+    background: #FCDB00;
+}
+
+.header-top {
+    margin-top: 60px;
+}
+
+.logo {
+    float: left;
+}
+
+.mainmenu {
+    float: right
+}
+
+.mainmenu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.mainmenu ul li {
+    display: inline-block;
+}
+
+.mainmenu ul li a {
+    color: #010101;
+    display: block;
+    padding: 0 24px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.mainmenu ul li a:hover {}
+
+.slider {}
+
+.slider-text {
+    float: left;
+    margin-top: 8%;
+    width: 400px;
+}
+
+.slider-text h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.slider-text h3 {
+    margin-top: 2%;
+    font-size: 20px;
+    font-weight: normal;
+    color: #313841;
+    line-height: 26px;
+}
+
+.slider-text p {
+    font-size: 15px;
+    margin-top: 2%;
+    color: #555;
+}
+
+.slider-picture {
+    padding-bottom: 10%;
+    padding-top: 5%;
+}
+
+.slider-picture img {
+    float: right;
+    height: 470px;
+    width: 317px;
+    margin-right: 8%;
+    margin-bottom: 108px;
+}
+
+.oporator-logo i.fa {
+    color: #010101;
+    font-size: 42px;
+    margin-right: 18px;
+    margin-top: 4%;
+    margin-bottom: 10px;
+}
+
+.oporator-logo {}
+
+.feature-area {
+    padding-bottom: 8%;
+}
+
+.feature {
+    margin-top: 8%;
+}
+
+.feature h2,
+.footer-top h2 {
+    color: #010101;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.feature h3,
+.footer-top h3 {
+    font-weight: normal;
+    line-height: 22px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.feature p {}
+
+.single-feature {
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 7%;
+    width: 310px;
+}
+
+.single-feature h3 {
+    font-weight: normal;
+    line-height: 22px;
+    margin-left: 5%;
+    margin-right: 23%;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.single-feature p {
+    color: #898989;
+    font-size: 16px;
+    margin-left: 71px;
+}
+
+.single-feature i.fa {
+    font-size: 50px;
+    color: #010101;
+    float: left;
+}
+
+.footer-area {
+    background-color: #010101;
+}
+
+.footer-top {
+    text-align: center;
+}
+
+.footer-top h2 {
+    color: #fcdb00;
+    padding-top: 100px;
+}
+
+.footer-top h3 {
+    color: #898989;
+    margin-bottom: 40px;
+}
+
+.email {
+    border: 0;
+    border-radius: 5px;
+    height: 48px;
+    padding-left: 15px;
+    width: 565px;
+}
+
+.submit {
+    border: 0;
+    border-radius: 5px;
+    margin-left: 8px;
+    height: 48px;
+    width: 126px;
+    background-color: #fcdb00;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.social-icon {
+  font-size: 28px;
+  text-align: center;
+  margin-top: 6%;
+}
+
+.social-icon i.fa {
+    background-color: #fcdb00;
+    border: 0;
+    border-radius: 5px;
+    height: 36px;
+    width: 36px;
+    margin-left: 3%;
+    line-height: 36px;
+    color:black;
+}
+
+.footer-top-main {margin-top: 15%; color:#fff;}
+
+.footer-address {
+  float: left;
+  font-weight: 500;
+  text-align: center;
+  width: 20%;
+  margin-bottom: 140px;
+}
+
+.footer-address ul li {}
+
+.copy-right {
+    text-align: center;
+    background-color: #585757;
+    font-size: 22px;
+    font-weight: 600px;
+    
+}
